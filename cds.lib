@@ -1,0 +1,2 @@
+SOFTINCLUDE /home/work/cds.lib
+DEFINE arch_verify /home/work/dac_11/arch_verify
